@@ -17,12 +17,12 @@ x86/64-bit
 [ZIP](https://hexler.net/pub/touchosc/touchosc-1.1.9.163-linux-x86_64.zip) [DEB](https://hexler.net/pub/touchosc/touchosc-1.1.9.163-linux-x86_64.deb)
 
 
-ARM / 32-bit / Raspberry Pi
+ARM32 / 32-bit / Raspberry Pi
 
 [ZIP](https://hexler.net/pub/touchosc/touchosc-1.1.9.163-linux-armhf.zip) [DEB](https://hexler.net/pub/touchosc/touchosc-1.1.9.163-linux-armhf.deb)
 
 
-ARM / 64-bit :
+ARM64 / 64-bit :
 
 [ZIP](https://hexler.net/pub/touchosc/touchosc-1.1.9.163-linux-arm64.zip) [DEB](https://hexler.net/pub/touchosc/touchosc-1.1.9.163-linux-arm64.deb)
 
