@@ -1,5 +1,6 @@
-Reqirements :
 Please know that I do NOT own TouchOSC
+
+Reqirements :
 
 [TouchOSC](https://hexler.net/touchosc)
 
